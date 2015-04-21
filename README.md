@@ -5,4 +5,4 @@ Create and Display Top Rating Hyips
 
 ***
 
-[*What next..*](https://github.com/tophyips/tophyips.github.io/wiki)
+[What Next..](https://github.com/tophyips/tophyips.github.io/wiki)
